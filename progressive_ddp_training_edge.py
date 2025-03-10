@@ -286,7 +286,7 @@ def distillation_loss(student_logits, teacher_logits, student_overlap, teacher_o
 ###################################
 # Build Vocabulary and Load Raw Data
 ###################################
-fasta_file = "data2/fungi_ITS_cleaned.fasta"
+fasta_file = "/Users/longheishe/Documents/Github/fyp/data2/fungi_ITS_cleaned.fasta"
 raw_data = parse_fasta_with_labels(fasta_file)
 vocab = build_kmer_vocab(raw_data, k=6)
 
