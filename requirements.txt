@@ -1,0 +1,5 @@
+torch==2.0.0
+biopython
+matplotlib
+# You can add any other dependencies your code needs, for example:
+numpy
