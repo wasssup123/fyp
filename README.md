@@ -1,5 +1,7 @@
 Comments are added by Chatgpt, so maybe some of them are wrong
 
+for specific result comparison, refer to the powerpoint link https://portland-my.sharepoint.com/:p:/g/personal/lhshe2-c_my_cityu_edu_hk/EV-YFEPHQOZEtVA-NaDQ6K0BfpAixUt-p1YRKDmFGL6_kQ?e=Ck6dfU
+
 
 this fyp project is focus on using AI model for DNA, which based on the four nucleotide of DNA, with the use of Given NCBI dataset by supervisor
 vit fusion with distillation.ipynb and CNN model compare between mer.ipynb will be the main focus in this repo
